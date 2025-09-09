@@ -1,4 +1,7 @@
-# IndyGO-Ridership-Analytics-Dashboard
+# IndyGO-Ridership-Analytics-Dashboard:
+
+Dashboard Link:  <a href="https://drive.google.com/file/d/1JGp12g9EesUXp87zFedFdZzRcO4xkrGO/view?usp=drive_link">https://dri
+ve.google.com/file/d/1JGp12g9EesUXp87zFedFdZzRcO4xkrGO/view?usp=drive_link</a> 
 
 The IndyGo Ridership Dashboard is a dynamic visualization platform created for IndyGo, the public transit agency serving Indianapolis. It delivers actionable insights into both historical and real-time ridership data, helping planners, policymakers, and the community understand how transit services are being used. By doing so, it supports smarter service planning, more efficient resource allocation, and an improved rider experience.
 
